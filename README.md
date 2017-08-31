@@ -13,5 +13,8 @@ The app id is a unique identifier for your app. The redirect URI is a unique URI
 7. Select **Save**.
 # Running the Application
 Update the App.config file with your infos (Tenant, secret , ...)
-C
+  [ClientID] : Application ID
+  [Dest1];[Dest2] : Email of destination users
+  [AppSecret] : Not relevant for now
+  [TenantID] : Not relevant for now
 
