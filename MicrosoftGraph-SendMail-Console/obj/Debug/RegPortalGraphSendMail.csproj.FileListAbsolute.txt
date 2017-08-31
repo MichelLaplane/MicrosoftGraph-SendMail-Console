@@ -1,0 +1,16 @@
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\RegPortalGraphSendMail.exe.config
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\RegPortalGraphSendMail.exe
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\RegPortalGraphSendMail.pdb
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Graph.Core.dll
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Graph.dll
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Identity.Client.dll
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Graph.xml
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Graph.Core.xml
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Identity.Client.xml
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\RegPortalGraphSendMail.csprojResolveAssemblyReference.cache
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\RegPortalGraphSendMail.exe
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\RegPortalGraphSendMail.pdb
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\RegPortalGraphSendMail.Properties.ApplicationResource.resources
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\RegPortalGraphSendMail.csproj.GenerateResource.Cache

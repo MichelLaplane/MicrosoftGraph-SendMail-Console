@@ -1,0 +1,15 @@
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Graph.Core.dll
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Graph.dll
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Identity.Client.dll
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Graph.xml
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Graph.Core.xml
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Microsoft.Identity.Client.xml
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\MicrosoftGraph_SendMail_Console.Properties.ApplicationResource.resources
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\MicrosoftGraph-SendMail-Console.csproj.GenerateResource.Cache
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\MicrosoftGraph_SendMail_Console.exe.config
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\MicrosoftGraph_SendMail_Console.exe
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\bin\Debug\MicrosoftGraph_SendMail_Console.pdb
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\MicrosoftGraph_SendMail_Console.exe
+D:\Dev\UniHA\RegPortalGraphSendMail\RegPortalGraphSendMail\obj\Debug\MicrosoftGraph_SendMail_Console.pdb
